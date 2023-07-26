@@ -4,7 +4,7 @@ O projeto "Automação de Instalação e Configuração de Servidores Linux com 
 
 Objetivo:
 
-O objetivo deste projeto é fornecer uma coleção de scripts Shell desenvolvidos por [Seu Nome] que facilitem a automação de tarefas relacionadas à configuração e manutenção de servidores Linux. Com esses scripts, é possível:
+O objetivo deste projeto é fornecer uma coleção de scripts Shell desenvolvidos por Geraldo Alves que facilitem a automação de tarefas relacionadas à configuração e manutenção de servidores Linux. Com esses scripts, é possível:
 
 Instalar e configurar diversas ferramentas e serviços populares, como PHP, Apache, Git, Ansible, Prometheus e Grafana, entre outros.
 Configurar o firewall e habilitar portas específicas para garantir a segurança do servidor.
@@ -26,10 +26,7 @@ Agilidade: Com a automação, é possível implantar rapidamente novos serviços
 
 Conclusão:
 
-O projeto "Automação de Instalação e Configuração de Servidores Linux com Shell Scripts - por [Seu Nome]" é uma valiosa adição ao portfólio de serviços de TI de Geraldo Alves, demonstrando habilidades em automação, infraestrutura como código (IaC) e práticas DevOps. Através desses scripts, a equipe de TI pode impulsionar a eficiência, segurança e agilidade na gestão de servidores Linux, contribuindo para o sucesso e a confiabilidade das operações de TI da organização.
-
-
-
+O projeto "Automação de Instalação e Configuração de Servidores Linux com Shell Scripts - por Geraldo" é uma valiosa adição ao portfólio de serviços de TI de Geraldo Alves, demonstrando habilidades em automação, infraestrutura como código (IaC) e práticas DevOps. Através desses scripts, a equipe de TI pode impulsionar a eficiência, segurança e agilidade na gestão de servidores Linux, contribuindo para o sucesso e a confiabilidade das operações de TI da organização.
 
 
 Descrição dos Scripts:
